@@ -1,0 +1,24 @@
+{
+
+    "plugins": [
+                "include-codeblock",
+                "advanced-emoji",
+                "anchors",
+                "disqus",
+                "plantuml",
+                "advanced-emoji"
+               ],
+    "pluginsConfig": {
+        "include-codeblock": {
+            "template": "default",
+            "unindent": true,
+            "theme": "monokai"
+        },
+        "disqus": {
+            "shortName": "spring-cloud-common-teaho-net"
+        }
+        
+    }
+}
+
+
