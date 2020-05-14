@@ -6,19 +6,25 @@
                 "anchors",
                 "disqus",
                 "plantuml",
-                "advanced-emoji"
+                "advanced-emoji",
+                "page-treeview"
                ],
-    "pluginsConfig": {
+      "pluginsConfig": {
         "include-codeblock": {
-            "template": "default",
-            "unindent": true,
-            "theme": "monokai"
+          "template": "default",
+          "unindent": true,
+          "theme": "monokai"
         },
         "disqus": {
-            "shortName": "spring-cloud-common-learning"
+          "shortName": "spring-cloud-common-learning"
+        },
+        "page-treeview": {
+          "copyright": "",
+          "minHeaderCount": "10",
+          "minHeaderDeep": "10"
         }
-        
-    }
+
+      }
 }
 
 

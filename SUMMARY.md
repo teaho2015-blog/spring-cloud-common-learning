@@ -4,4 +4,5 @@
 
 -----
 
+* [hystrix](book/circuit_breaker/hystrix.md)
 
